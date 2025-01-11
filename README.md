@@ -64,3 +64,13 @@ Run the Python script:
 ```
 python app.py
 ```
+
+## Acknowledgements
+
+126 BPM Industrial Ambient Loop #6310 (WAV) by looplicator -- https://freesound.org/s/760111/ -- License: Attribution 4.0
+
+Fast Collision by qubodup -- https://freesound.org/s/332056/ -- License: Creative Commons 0
+
+Parrot AR drone 2.0 take off, flight and landing by timsc -- https://freesound.org/s/332036/ -- License: Creative Commons 0
+
+Level Up #4 by Universfield -- https://freesound.org/s/758816/ -- License: Attribution 4.0
